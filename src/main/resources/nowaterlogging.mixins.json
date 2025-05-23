@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "com.finxd.nowaterlogging.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "nocrawling.refmap.json",
+  "refmap": "nowaterlogging.refmap.json",
   "mixins": [
     "AmethystClusterBlockMixin",
     "BaseRailBlockMixin",
